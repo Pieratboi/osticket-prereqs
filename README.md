@@ -4,7 +4,7 @@
 </p>
 
 # osTicket - Prerequisites and Installation
-This documentation outlines the prerequisites and step-by-step process to install and configure the open-source help desk ticketing system, **osTicket**. This project demonstrates the installation, configuration, and deployment of osTicket in a cloud-hosted environment, emphasizing technical proficiency and problem-solving skills.
+This documentation outlines the prerequisites and step-by-step process to install and configure the open-source help desk ticketing system, **osTicket**. This project demonstrates the installation and set-up of osTicket in a cloud-hosted environment.
 
 osTicket is a powerful, open-source solution for managing customer support tickets efficiently. The system centralizes inquiries and automates processes, making it ideal for IT service desks, customer service departments, and small businesses looking for a cost-effective ticketing solution.
 
