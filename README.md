@@ -177,5 +177,5 @@ osTicket is distributed under the GNU General Public License (GPL). For more inf
 
 ## Contact Information
 For questions or feedback, feel free to reach out:  
-- **GitHub**: [Your GitHub Profile Link]  
-- **LinkedIn**: [Your LinkedIn Profile Link]  
+- **GitHub**: https://github.com/Pieratboi  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/rafael-razapov-60391a2b8/?trk=opento_sprofile_topcard"> Rafael Razapov </a>  
