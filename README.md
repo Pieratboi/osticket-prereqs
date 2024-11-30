@@ -92,6 +92,9 @@ Before starting, ensure you have:
 
 ## Installation Steps
 
+![image](https://github.com/user-attachments/assets/8aae0d8d-b165-448d-ba73-df3ea7f84cb7)
+
+
 ### 1. Set Up the Virtual Machine
 - Create a Windows 10 Virtual Machine in Microsoft Azure or another platform of your choice.
 - Ensure the VM has sufficient resources (4 vCPUs, 8GB RAM, and a public IP address for remote access).
@@ -145,6 +148,8 @@ Before starting, ensure you have:
    - `php_imap.dll`, `php_intl.dll`, `php_opcache.dll`.
 3. Rename `ost-sampleconfig.php` to `ost-config.php` and configure permissions.
 4. Set up the MySQL database and complete the web-based setup.
+
+![image](https://github.com/user-attachments/assets/42f6a171-2211-4252-8ce5-bcb24be1be65)
 
 ---
 
