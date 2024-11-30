@@ -93,7 +93,7 @@ Before starting, ensure you have:
 ## Installation Steps
 
 ![image](https://github.com/user-attachments/assets/8aae0d8d-b165-448d-ba73-df3ea7f84cb7)
-
+(IIS enabled with CGI, PHP with updated executable)
 
 ### 1. Set Up the Virtual Machine
 - Create a Windows 10 Virtual Machine in Microsoft Azure or another platform of your choice.
@@ -150,6 +150,7 @@ Before starting, ensure you have:
 4. Set up the MySQL database and complete the web-based setup.
 
 ![image](https://github.com/user-attachments/assets/42f6a171-2211-4252-8ce5-bcb24be1be65)
+(End result)
 
 ---
 
